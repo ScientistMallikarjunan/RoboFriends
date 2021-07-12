@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ScientistMallikarjunan/RoboFriends/static/css/main.b5a51013.chunk.css",
+    "main.js": "/ScientistMallikarjunan/RoboFriends/static/js/main.8973c23e.chunk.js",
+    "main.js.map": "/ScientistMallikarjunan/RoboFriends/static/js/main.8973c23e.chunk.js.map",
+    "runtime-main.js": "/ScientistMallikarjunan/RoboFriends/static/js/runtime-main.2e797856.js",
+    "runtime-main.js.map": "/ScientistMallikarjunan/RoboFriends/static/js/runtime-main.2e797856.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/ScientistMallikarjunan/RoboFriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1efe70f0.chunk.js": "/ScientistMallikarjunan/RoboFriends/static/js/2.1efe70f0.chunk.js",
+    "static/js/2.1efe70f0.chunk.js.map": "/ScientistMallikarjunan/RoboFriends/static/js/2.1efe70f0.chunk.js.map",
+    "index.html": "/ScientistMallikarjunan/RoboFriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/ScientistMallikarjunan/RoboFriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.b5a51013.chunk.css.map": "/ScientistMallikarjunan/RoboFriends/static/css/main.b5a51013.chunk.css.map",
+    "static/js/2.1efe70f0.chunk.js.LICENSE.txt": "/ScientistMallikarjunan/RoboFriends/static/js/2.1efe70f0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ScientistMallikarjunan/RoboFriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e797856.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.1efe70f0.chunk.js",
+    "static/css/main.b5a51013.chunk.css",
+    "static/js/main.8973c23e.chunk.js"
+  ]
+}
